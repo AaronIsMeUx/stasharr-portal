@@ -1,0 +1,12 @@
+# Node/Docker stuff
+*.log
+.env
+
+# macOS
+.DS_Store
+
+# Docker
+*.tar
+**/.dockerignore
+**/docker-compose.override.yml
+**/docker-compose.*.yml
