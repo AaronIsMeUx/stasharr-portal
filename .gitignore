@@ -10,3 +10,8 @@
 **/.dockerignore
 **/docker-compose.override.yml
 **/docker-compose.*.yml
+
+# Local reference docs with credentials (never commit)
+docs/
+*.cheat*
+Cheat_Sheet*
