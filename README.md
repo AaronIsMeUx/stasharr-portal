@@ -29,6 +29,10 @@ If your local Stash instance runs on `localhost:9999`, use this URL inside Stash
 http://host.docker.internal:9999
 ```
 
+## Docker usage
+
+See `DOCKER_USAGE.md` for startup, shutdown, logs, and macOS Docker networking notes.
+
 ## Backup
 
 Keep your backup copy of `~/.stash` safe. This repo stores only the install configuration.
