@@ -21,6 +21,16 @@ Open:
 open "http://localhost:3000"
 ```
 
+## Using GitHub issue templates
+
+If you want to report a problem, request a feature, or ask for help, open an issue in GitHub and choose one of these templates:
+
+- `Bug report`
+- `Feature request`
+- `Support request`
+
+These templates help capture the key details up front so the repository maintainers can respond faster.
+
 ## Notes for macOS / Apple Silicon
 
 If your local Stash instance runs on `localhost:9999`, use this URL inside Stasharr:
